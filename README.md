@@ -2,9 +2,9 @@
 Group 3 - Moneky Brain
 Causal Decoding of Reach Trajectories from Motor Cortex
 
-================================================================================
+--------------------------------------------------------------------------------
 Project Overview
-================================================================================
+--------------------------------------------------------------------------------
 To evaluate the model performance, ensure you are in the root directory in MATLAB 
 and execute:
 
