@@ -1,6 +1,6 @@
-# BMI
+# BMI: Causal Decoding of Reach Trajectories from Motor Cortex
 Group 3 - Moneky Brain
-Causal Decoding of Reach Trajectories from Motor Cortex
+
 
 --------------------------------------------------------------------------------
 Project Overview
