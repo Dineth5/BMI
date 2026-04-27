@@ -17,13 +17,12 @@ Accuracy: 98.8% direction-classification accuracy.
 Error: ~8.99 mm RMSE
 
 --------------------------------------------------------------------------------
-Group 3 Members
+Members
 --------------------------------------------------------------------------------
-/ Ariel Ang
-/ Balvinder Kaur Dhillon
-/ Jorge Gomez Aguilar
-/ Dineth Ilapperuma
-/ Morgan Helene
-
+- Ariel Ang
+- Balvinder Kaur Dhillon
+- Jorge Gomez Aguilar
+- Dineth Ilapperuma
+- Morgan Helene
 
 For the module: BIOE70011 Brain Machine Interfaces, Academic year 2025-2026, Imperial College London
