@@ -12,8 +12,9 @@
 %As you can see the graph occasionally jumps between paths, we would like
 %to minimize the instances these occur
 
+
 function RMSE = testFunction_for_students_MTb(teamName)
-tic; % TIMER START
+tic;
 
 load monkeydata0.mat
 
@@ -87,6 +88,6 @@ RMSE = sqrt(meanSqError/n_predictions)
 rmpath(genpath(teamName))
 
 
-elapsedTime = toc; % TIMER END
+elapsedTime = toc;
 fprintf('\nDecoding complete in %.2f seconds.\n', elapsedTime);
 end

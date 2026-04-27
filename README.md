@@ -1,12 +1,29 @@
 # BMI
-Moneky Brains - Group 3
+Group 3 - Moneky Brain
+Causal Decoding of Reach Trajectories from Motor Cortex
 
-Run following code in Matlab main dir.
-Keep all files in folder MB
+================================================================================
+Project Overview
+================================================================================
+To evaluate the model performance, ensure you are in the root directory in MATLAB 
+and execute:
 
-RMSE = testFunction_for_students_MTb('FILE NAME') \
-RMSE = testFunction_for_students_MTb('MB')
+RMSE = testFunction_for_students_MTb('MonkeyBrain')
 
-OR (same file with error analysis - RSME over time & RSME by direction) \
-RSME = testFunction_for_students_MTb_ERROR_ANA('FILE NAME') \
-**RSME = testFunction_for_students_MTb_ERROR_ANA('MB')**
+--------------------------------------------------------------------------------
+Results
+--------------------------------------------------------------------------------
+Accuracy: 98.8% direction-classification accuracy.  
+Error: ~8.99 mm RMSE
+
+--------------------------------------------------------------------------------
+Group 3 Members
+--------------------------------------------------------------------------------
+/ Ariel Ang
+/ Balvinder Kaur Dhillon
+/ Jorge Gomez Aguilar
+/ Dineth Ilapperuma
+/ Morgan Helene
+
+
+For the module: BIOE70011 Brain Machine Interfaces, Academic year 2025-2026, Imperial College London
