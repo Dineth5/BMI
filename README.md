@@ -5,7 +5,7 @@ Group 3 - Monkey Brain
 --------------------------------------------------------------------------------
 Project Overview
 --------------------------------------------------------------------------------
-Our team implemented a two-stage decoding pipeline:
+Our team implemented a 5-stage decoding pipeline:
 
 1) Direction Classification: We utilised a two-stage Linear Discriminant Analysis (LDA) classifier, which outperformed K-Nearest Neighbours and Support Vector Machines.
 
